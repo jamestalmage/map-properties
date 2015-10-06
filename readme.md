@@ -17,6 +17,9 @@ var mapFn = function(val) {
   return val + val.toUpperCase();
 };
 
+map(['a', 'b'], mapFn);
+// => ['aA', 'bB']
+
 map({a: 'b', c: 'd'}, mapFn);
 // => {a: 'bB', c: 'dD'}
 
