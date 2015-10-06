@@ -62,7 +62,7 @@ If provided, will be the `this` value during execution of `mapFn`.
 
 *optional*
 
-Explicitly provide the destination object, otherwise it will be automatically created.
+Explicitly provide the destination object, otherwise it will be created automatically.
 
 ```js
 var destination = {};
