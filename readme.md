@@ -52,7 +52,7 @@ A callback that maps the properties to their new values. It is called with the f
   * `source` - the source object/array/string from which the properties are being mapped.
   * `destination` - the destination object on to which the properties are being mapped.
 
-##### mapFn
+##### context
 
 *optional*
 
