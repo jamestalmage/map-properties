@@ -1,6 +1,6 @@
 {
   "name": "map-properties",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "array.map equivalent that also works on Objects and Strings",
   "license": "MIT",
   "repository": "jamestalmage/map-properties",
